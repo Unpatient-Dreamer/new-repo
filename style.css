@@ -7,3 +7,14 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: blue;
 }
+
+.subtitulo-principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 24px;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif; 
+    color: black;
+}
