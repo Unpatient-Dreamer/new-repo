@@ -1,0 +1,9 @@
+.titulo-principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    font-size: 72px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
