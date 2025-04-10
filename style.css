@@ -3,3 +3,8 @@ h1 {
   text-transform: uppercase;
   font-family: "William", serif;
 }
+
+h2 {
+  font-size: 12px;
+  font-style: oblique;
+}
